@@ -1,4 +1,4 @@
-# covid_vaccine_book
+# VaxMate
 A custom AutoHotkey script I built to automate COVID-19 vaccination slot booking on CoWIN.gov.in. This helped me secure slots for my family and our house help during peak demand when slots were gone within seconds.
 
 During the peak of the COVID-19 vaccination drive in India, booking a slot on [CoWIN.gov.in](https://www.cowin.gov.in/) was nearly impossible, especially for those without fast internet or the know-how to navigate the site quickly. This AutoHotkey script was something I built out of necessity to help my family and our house help secure vaccination slots.
